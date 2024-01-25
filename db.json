@@ -1,0 +1,201 @@
+{
+  "testimonials": [
+    {
+      "name": "Anjo Victoria",
+      "position": "Manager",
+      "avatar": "https://ui-avatars.com/api/?name=Anjo+Victoria",
+      "testimony": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "name": "Sha Victoria",
+      "position": "Manager",
+      "avatar": "https://ui-avatars.com/api/?name=Sha+Victoria",
+      "testimony": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "name": "Elle Victoria",
+      "position": "Manager",
+      "avatar": "https://ui-avatars.com/api/?name=Elle+Victoria",
+      "testimony": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "name": "Kiko Victoria",
+      "position": "Manager",
+      "avatar": "https://ui-avatars.com/api/?name=Kiko+Victoria",
+      "testimony": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "name": "Francis Victoria",
+      "position": "Manager",
+      "avatar": "https://ui-avatars.com/api/?name=Anjo+Victoria",
+      "testimony": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    }
+  ],
+  "products": [
+    {
+      "name": "RadPower RadCity 5 Plus",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Specialized Turbo Como SL",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Cannondale Mavaro Neo",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Trek Verve+ 3",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Giant Liv Avail AR 5",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Brompton Electric C Line Urban",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Aventon Sinch Pro",
+      "type": "e-bike",
+      "image": "https://fiido.ph/site/wp-content/uploads/2022/08/Fiido-T1-Utility-Electric-Bike_1000x.webp"
+    },
+    {
+      "name": "Zero SR/S",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Harley-Davidson LiveWire One",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Energica Experia",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Super73 S2",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "BMW CE 04",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Lightning Strike",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Damon Hypersport Pro",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Ather 450X Gen 3",
+      "type": "electric_motorcycle",
+      "image": "https://www.voxeljet.com/wp-content/uploads/2021/05/ethec-elektromotorrad.jpg"
+    },
+    {
+      "name": "Vespa Elettrica",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Segway Ninebot Max G30D",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "BMW CE 04",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Honda e:S1",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Aprilia SR GT 2023",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Xiaomi Mi Electric Scooter Pro 2",
+      "type": "scooter",
+      "image": "https://th.bing.com/th/id/OIP.NsgMPQDTLCF5CqZObJfdHgHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Tesla Model 3",
+      "type": "electric_car",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Ford Mustang Mach-E",
+      "type": "electric_car",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "Chevrolet Bolt EV",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Hyundai Kona Electric",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Nissan Leaf",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Kia Niro EV",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Volkswagen ID.4",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Audi e-tron",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    },
+    {
+      "name": "Porsche Taycan",
+      "image": "https://th.bing.com/th/id/R.82ef06288e2338945e4458e22975ac82?rik=mdLr4QI36BWZXA&riu=http%3a%2f%2fwww.tflcar.com%2fwp-content%2fuploads%2f2015%2f01%2fE-Car333-main.jpg&ehk=vz8rsmncOPgy2CkaBcG8lyuyb53SeV8Tj5MW%2f0JEna8%3d&risl=&pid=ImgRaw&r=0",
+      "type": "electric_car"
+    }
+  ],
+    "directors": [
+        {
+            "avatar": "https://ui-avatars.com/api/?name=Anjo+Victoria",
+            "name": "Anjo Victoria",
+            "position": "Manager",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar mattis nunc sed blandit libero. Nulla at volutpat diam ut venenatis tellus in. Ultrices neque ornare aenean euismod elementum nisi quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Diam quis enim lobortis scelerisque fermentum dui. Malesuada proin libero nunc consequat interdum varius sit amet. Tellus orci ac auctor augue mauris augue neque. Id leo in vitae turpis massa sed elementum tempus egestas. Pulvinar mattis nunc sed blandit libero volutpat. Tincidunt augue interdum velit euismod. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Sagittis nisl rhoncus mattis rhoncus. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Porta lorem mollis aliquam ut porttitor. Morbi tristique senectus et netus et malesuada fames. Tortor condimentum lacinia quis vel eros. Sit amet risus nullam eget. Accumsan tortor posuere ac ut consequat semper."
+        },
+        {
+            "avatar": "https://ui-avatars.com/api/?name=Francis+Panaligan",
+            "name": "Francis Panaligan",
+            "position": "Manager",
+            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar mattis nunc sed blandit libero. Nulla at volutpat diam ut venenatis tellus in. Ultrices neque ornare aenean euismod elementum nisi quis. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Diam quis enim lobortis scelerisque fermentum dui. Malesuada proin libero nunc consequat interdum varius sit amet. Tellus orci ac auctor augue mauris augue neque. Id leo in vitae turpis massa sed elementum tempus egestas. Pulvinar mattis nunc sed blandit libero volutpat. Tincidunt augue interdum velit euismod. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Sagittis nisl rhoncus mattis rhoncus. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Porta lorem mollis aliquam ut porttitor. Morbi tristique senectus et netus et malesuada fames. Tortor condimentum lacinia quis vel eros. Sit amet risus nullam eget. Accumsan tortor posuere ac ut consequat semper."
+        }
+    ]
+    
+}
