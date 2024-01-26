@@ -33,7 +33,7 @@ export const NavBar = () => {
         </div>
       </nav>
       {expanded && (
-        <div className="flex flex-col items-center text-center mt-16 md:hidden">
+        <div className="flex flex-col z-20 absolute w-full bg-white items-center text-center mt-16 md:hidden">
             <ul className="flex flex-col gap-4 h-full items-center text-center">
                 <li className="">
                     <Link to="/">Home</Link>
